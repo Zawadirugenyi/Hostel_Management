@@ -124,6 +124,7 @@
       </div>
     </div>
     <!-- Page Banner End -->
+
     <!-- Company Offers Start -->
     <div class="offers__area section-padding">
       <div class="container">
@@ -158,6 +159,7 @@
       </div>
     </div>
     <!-- Company Offers End -->
+
     <!-- Services Two Start -->
     <div class="services__two">
       <div class="container">
@@ -226,6 +228,7 @@
       </div>
     </div>
     <!-- Services Two End -->
+
     <!-- Gallery Area Start -->
     <div class="gallery__area section-padding pb-0 overflow-hidden">
       <div class="container-fluid p-0">
@@ -274,6 +277,7 @@
       </div>
     </div>
     <!-- Gallery Area End -->
+    
     <!-- Team Area Start -->
     <div class="team__area section-padding">
       <div class="container">
