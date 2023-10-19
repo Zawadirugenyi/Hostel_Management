@@ -43,7 +43,7 @@
             <label for="password" class="form-label">Password</label>
             <input type="password" name="password" class="form-control" id="password" required>
         </div>
-        <button type="submit" name="submit" class="btn btn-primary"> <a href="index 1.php"> Login</a></button>
+        <button type="submit" name="submit" class="btn btn-primary"> <a href="home.php"> Login</a></button>
     </form>
     <div style="margin-bottom: 40px;"></div>
     <p>Don't have an account? <a href="signup.php">Sign up here</a></p>

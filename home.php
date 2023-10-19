@@ -63,21 +63,29 @@
                 <ul id="mobilemenu">
                   <li class="menu-item-has-children">
                     <a href="#">Home</a>
-                   
+                    <ul class="sub-menu">
+                      <li><a href="home.php">Home</a></li>
+                      <li><a href="home.php">Resident Connect</a></li>
+                    </ul>
                   </li>
                   <li class="menu-item-has-children">
-                    <a href="#">About Us</a>
+                    <a href="#">Pages</a>
                     <ul class="sub-menu">
-                     
+                      <li><a href="about.php">About</a></li>
                       <li><a href="services-team.html">Team</a></li>
                       <li>
                         <a href="services-details.html">Services </a>
                       </li>
                     </ul>
-                  </li> 
+                  </li>
                   <li class="menu-item-has-children">
                     <a href="booking.php">Room</a>
-                   
+                    <ul class="sub-menu">
+                      <li><a href="booking.php">2nd Floor</a></li>
+                      <li><a href="booking.php">1st Floor</a></li>
+                      <li><a href="booking.php">Ground Floor</a></li>
+                      <li><a href="booking.php">Room Details</a></li>
+                    </ul>
                   </li>
 
                   <li><a href="contact.php">Contact</a></li>
@@ -86,7 +94,7 @@
             </div>
             <div class="header__area-menubar-right-box">
               <div class="header__area-menubar-right-box-btn">
-                <a class="theme-btn" href="contact.php"
+                <a class="theme-btn" href="booking.php"
                   >Book Now<i class="fal fa-long-arrow-right"></i
                 ></a>
               </div>
@@ -95,11 +103,10 @@
             <div class="header__area-menubar-right-box">
               <div class="header__area-menubar-right-box-btn">
                 <a class="theme-btn" href="index.php"
-                  >Login<i class="fal fa-long-arrow-right"></i
+                  >Login/SignUp<i class="fal fa-long-arrow-right"></i
                 ></a>
               </div>
             </div>
-
           </div>
         </div>
       </div>
@@ -196,7 +203,7 @@
         <div class="row align-items-end mb-60">
           <div class="col-xl-5">
             <div class="deluxe__area-title">
-              <span class="subtitle__one">Deluxe and Luxury</span>
+              <span class="subtitle__one">Secury and Comfort</span>
               <h2>Our Luxury Rooms</h2>
             </div>
           </div>
@@ -204,9 +211,9 @@
             <div class="deluxe__area-btn">
               <ul>
                 <li class="active" data-filter="*">All Rooms</li>
-                <li data-filter=".luxury">Bedsitter</li>
-                <li data-filter=".single">One Bedroom</li>
-                <li data-filter=".family">Two Bedroom</li>
+                <li data-filter=".luxury">G Floor</li>
+                <li data-filter=".single">1st Floor</li>
+                <li data-filter=".family">2nd Floor</li>
               </ul>
             </div>
           </div>
@@ -217,13 +224,13 @@
               <div class="deluxe__area-item-image">
                 <img
                   class="img__full"
-                  src="assets/img/hotel/images (2).jpeg"
+                  src="assets/img/hotel/download (16).jpg"
                   alt=""
                 />
               </div>
               <div class="deluxe__area-item-content">
                 <h6>
-                  <a href="#"><span>Kshs. 10,000</span> / Month</a>
+                  <a href="#"><span>Kshs. 11,000</span> / Month</a>
                 </h6>
                 <h4><a href="room-details.html">Bedsitter</a></h4>
                 <a class="simple-btn" href="contact.html"
@@ -243,9 +250,9 @@
               </div>
               <div class="deluxe__area-item-content">
                 <h6>
-                  <a href="#"><span>Kshs.15,000</span> / Month</a>
+                  <a href="#"><span>Kshs.11,000</span> / Month</a>
                 </h6>
-                <h4><a href="room-details.html">One Bedroom</a></h4>
+                <h4><a href="room-details.html">Bedsitter</a></h4>
                 <a class="simple-btn" href="contact.html"
                   ><i class="far fa-chevron-right"></i>Booking Now</a
                 >
@@ -257,15 +264,15 @@
               <div class="deluxe__area-item-image">
                 <img
                   class="img__full"
-                  src="assets/img/luxury/luxury-3.jpg"
+                  src="assets/img/hotel/download (17).jpg"
                   alt=""
                 />
               </div>
               <div class="deluxe__area-item-content">
                 <h6>
-                  <a href="#"><span>Kshs 18,000</span> / Month</a>
+                  <a href="#"><span>Kshs 11,000</span> / Month</a>
                 </h6>
-                <h4><a href="room-details.html">Family Room</a></h4>
+                <h4><a href="room-details.html">Bedsitter</a></h4>
                 <a class="simple-btn" href="contact.html"
                   ><i class="far fa-chevron-right"></i>Booking Now</a
                 >
@@ -283,7 +290,7 @@
               </div>
               <div class="deluxe__area-item-content">
                 <h6>
-                  <a href="#"><span>Kshs.7,500</span> / Month</a>
+                  <a href="#"><span>Kshs.11,000</span> / Month</a>
                 </h6>
                 <h4><a href="room-details.html">Bedsitter</a></h4>
                 <a class="simple-btn" href="contact.html"
@@ -303,7 +310,7 @@
               </div>
               <div class="deluxe__area-item-content">
                 <h6>
-                  <a href="#"><span>Kshs.5,000</span> / Month</a>
+                  <a href="#"><span>Kshs.11,000</span> / Month</a>
                 </h6>
                 <h4><a href="room-details.html">Bedsitter</a></h4>
                 <a class="simple-btn" href="contact.html"
@@ -317,7 +324,10 @@
     </div>
     <!-- Deluxe Area End -->
     <!-- Video Area Start -->
-    <div class="video__area" data-background="assets\img\hotel\download(5).jpg">
+    <div
+      class="video__area"
+      data-background="assets/img/hotel/download (21).jpg"
+    >
       <div class="container">
         <div class="row align-items-center">
           <div class="col-xxl-6 col-xl-7 col-lg-8">
@@ -419,13 +429,12 @@
             </div>
           </div>
         </div>
-        
-        
+
         <div class="row align-items-center bg-right">
           <div class="col-xl-6 col-lg-6 order-last order-lg-first">
             <div class="feature__area-left">
               <div class="feature__area-left-title">
-                <span class="subtitle__one">Experiences</span>
+                <span class="subtitle__one">Jivinjari</span>
                 <h2>Swimming Pool</h2>
                 <p>
                   Proin massa augue, lacinia at blandit ac, fringilla
@@ -451,7 +460,7 @@
     </div>
     <!-- Feature Area End -->
 
-  <!-- Footer Area Start -->
+    	<!-- Footer Area Start -->
 	<div class="footer__area">
 		<div class="container">
 			<div class="row">
@@ -492,7 +501,7 @@
 								</div>
 								<div class="footer__area-widget-contact-item-content">
 									<span><a href="mailto:help.info@gamil.com">kryptons.info@gamil.com</a></span>
-								</div> 
+								</div>
 							</div>
 							<div class="footer__area-widget-contact-item">
 								<div class="footer__area-widget-contact-item-icon">
