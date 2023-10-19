@@ -32,6 +32,7 @@
 </head>
 
 <body>
+
 	<!-- Preloader start -->
 	<div class="theme-loader">
 		<div class="spinner">
@@ -40,6 +41,7 @@
 		</div>
 	</div>
 	<!-- Preloader end -->
+
 	<!-- Header Area Start -->
 	<div class="header__sticky one">
 		<div class="header__area page">
@@ -98,6 +100,7 @@
 		</div>
 	</div>
 	<!-- Header Area End -->	
+
 	<!-- Page Banner Start -->
     <div class="page__banner" data-background="assets/img/banner/page-banner-1.jpg">
         <div class="container">
@@ -117,6 +120,7 @@
         </div>
     </div>
 	<!-- Page Banner End -->
+
 	<!-- Services Details Start -->
     <div class="services__details section-padding">
         <div class="container">
@@ -215,6 +219,7 @@
         </div>
     </div>
 	<!-- Services Details End -->
+
 		<!-- Footer Area Start -->
 		<div class="footer__area">
 			<div class="container">
@@ -280,8 +285,6 @@
 											Parking</a></li>
 									<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Swimming
 											pool</a></li>
-								
-										
 								</ul>
 							</div>
 						</div>
@@ -322,6 +325,7 @@
 			</div>
 		</div>
 		<!-- Footer Area End -->
+		
 	<!-- Scroll Btn Start -->
 	<div class="scroll-up">
 		<svg class="scroll-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102"><path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" /> </svg>
