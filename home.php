@@ -47,7 +47,9 @@
         <div class="header__area-menubar">
           <div class="header__area-menubar-left">
             <div class="header__area-menubar-left-logo">
-              <a href="home.php"><h2 style="color: white;">Kryptons</h2></a>
+              <a href="home.php">
+                <h2 style="color: white;">Kryptons</h2>
+              </a>
               <div class="responsive-menu"></div>
             </div>
           </div>
@@ -55,7 +57,7 @@
             <div class="header__area-menubar-right-menu menu-responsive">
               <ul id="mobilemenu">
                 <li class="menu-item-has-children">
-                  <a href="#">Home</a>
+                  <a href="home.">Home</a>
                   <ul class="sub-menu">
                     <li><a href="home.php">Home</a></li>
                     <li><a href="home.php">Resident Connect</a></li>
@@ -107,11 +109,10 @@
       <div class="row">
         <div class="col-xl-12">
           <div class="banner__area-title">
-            <h1>The Best Hostel<span>Deals in Daystar</span></h1>
+            <h1><span></span></h1>
             <div class="banner__area-title-video">
               <div class="video__play">
-                <a class="video-popup" href="https://www.youtube.com/watch?v=0WC-tD-njcA"><i
-                    class="fas fa-play"></i></a>
+                <img src="/assets/img/photo_6010393430800317779_y.jpg">
               </div>
             </div>
           </div>
@@ -148,6 +149,7 @@
     </div>
   </div>
   <!-- Banner Area End -->
+  
   <!-- Accommodations Area Start -->
   <div class="accommodations__area section-padding">
     <div class="container">
@@ -203,7 +205,7 @@
         <div class="col-xl-3 col-lg-4 mb-30 suite">
           <div class="deluxe__area-item">
             <div class="deluxe__area-item-image">
-              <img class="img__full" src="assets/img/hotel/download (16).jpg" alt="" />
+              <img class="img__full" src="/assets/img/photo_6010393430800317779_y.jpg" />
             </div>
             <div class="deluxe__area-item-content">
               <h6>
