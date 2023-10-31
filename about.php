@@ -67,7 +67,7 @@
                   <a href="#">Pages</a>
                   <ul class="sub-menu">
                     <li><a href="about.html">About</a></li>
-                    <li><a href="services-team.html">Team</a></li>
+                    <li><a href="team.php">Team</a></li>
                     <li><a href="services-details.html">Services </a></li>
                   </ul>
                 </li>

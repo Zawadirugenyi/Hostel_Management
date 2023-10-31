@@ -132,11 +132,12 @@
               <div class="check__area-item-room">
                 <p>View Rooms</p>
                 <select name="select">
-                  <option value="1">1 Room</option>
-                  <option value="2">2 Room</option>
-                  <option value="3">3 Room</option>
-                  <option value="4">4 Room</option>
-                  <option value="5">5 Room</option>
+                  <option value="101">101 Room</option>
+                  <option value="102">102 Room</option>
+                  <option value="203">203 Room</option>
+                  <option value="204">204 Room</option>
+                  <option value="303">303 Room</option>
+                  <option value="304">304 Room</option>
                 </select>
               </div>
             </div>
@@ -149,7 +150,7 @@
     </div>
   </div>
   <!-- Banner Area End -->
-  
+
   <!-- Accommodations Area Start -->
   <div class="accommodations__area section-padding">
     <div class="container">
@@ -157,11 +158,10 @@
         <div class="col-xl-5 col-lg-6 lg-mb-30">
           <div class="accommodations__area-title">
             <span class="subtitle__one">Accommodations</span>
-            <h2>Welcome Our Hostels And Apartments</h2>
+            <h2>Welcome Our Hostel</h2>
             <p>
-              Savvy travelers are looking for more than just the next
-              destination on the map. They are looking for a memorable
-              experience and to make new friends along the way.
+              Kryptons i sthe best place where you can reside in peace and enjoy your stay around Daystar University,
+              We have the best, in terms of security, WiFI and other services that you might need.
             </p>
             <a class="theme-btn" href="about.html">Read More<i class="fal fa-long-arrow-right"></i></a>
           </div>
