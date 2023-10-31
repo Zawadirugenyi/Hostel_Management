@@ -67,10 +67,7 @@
                   <a href="#">Pages</a>
                   <ul class="sub-menu">
                     <li><a href="about.php">About</a></li>
-                    <li><a href="services-team.html">Team</a></li>
-                    <li>
-                      <a href="services-details.html">Services </a>
-                    </li>
+                    <li><a href="team.php">Team</a></li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -79,7 +76,7 @@
                     <li><a href="booking.php">2nd Floor</a></li>
                     <li><a href="booking.php">1st Floor</a></li>
                     <li><a href="booking.php">Ground Floor</a></li>
-                    <li><a href="booking.php">Room Details</a></li>
+                    
                   </ul>
                 </li>
 

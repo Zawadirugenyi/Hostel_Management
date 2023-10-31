@@ -41,8 +41,8 @@
   </div>
   <!-- Preloader end -->
   <!-- Header Area Start -->
-  <div class="header__sticky one">
-    <div class="header__area page">
+   <div class="header__sticky">
+    <div class="header__area">
       <div class="container custom__container">
         <div class="header__area-menubar">
           <div class="header__area-menubar-left">
@@ -57,37 +57,43 @@
             <div class="header__area-menubar-right-menu menu-responsive">
               <ul id="mobilemenu">
                 <li class="menu-item-has-children">
-                  <a href="#">Home</a>
+                  <a href="home.">Home</a>
                   <ul class="sub-menu">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="index-2.html">Residence Connect</a></li>
+                    <li><a href="home.php">Home</a></li>
+                    <li><a href="home.php">Resident Connect</a></li>
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
                   <a href="#">Pages</a>
                   <ul class="sub-menu">
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="about.php">About</a></li>
                     <li><a href="team.php">Team</a></li>
-                    <li><a href="services-details.html">Services </a></li>
+                    
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
-                  <a href="#">Room</a>
+                  <a href="booking.php">Room</a>
                   <ul class="sub-menu">
-                    <li><a href="room-style.html">Ground Floor</a></li>
-                    <li><a href="room-modern.html">1st Floor</a></li>
-                    <li><a href="room-list.html">2nd Floor</a></li>
-                    <li><a href="room-details.html">Room Details</a></li>
+                    <li><a href="booking.php">2nd Floor</a></li>
+                    <li><a href="booking.php">1st Floor</a></li>
+                    <li><a href="booking.php">Ground Floor</a></li>
+                   
                   </ul>
                 </li>
 
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
               </ul>
             </div>
           </div>
           <div class="header__area-menubar-right-box">
             <div class="header__area-menubar-right-box-btn">
-              <a class="theme-btn" href="contact.html">Book Now<i class="fal fa-long-arrow-right"></i></a>
+              <a class="theme-btn" href="booking.php">Book Now<i class="fal fa-long-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="header__area-menubar-right-box">
+            <div class="header__area-menubar-right-box-btn">
+              <a class="theme-btn" href="index.php">Login/SignUp<i class="fal fa-long-arrow-right"></i></a>
             </div>
           </div>
         </div>

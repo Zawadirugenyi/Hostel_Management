@@ -42,68 +42,65 @@
 	<!-- Preloader end -->
 
 	<!-- Header Area Start -->
-	<div class="header__sticky">
-		<div class="header__area">
-			<div class="container custom__container">
-				<div class="header__area-menubar">
-					<div class="header__area-menubar-left">
-						<div class="header__area-menubar-left-logo">
-							<a href="home.php">
-								<h2 style="color: white;">Kryptons</h2>
-							</a>
-							<div class="responsive-menu"></div>
-						</div>
-					</div>
-					<div class="header__area-menubar-right">
-						<div class="header__area-menubar-right-menu menu-responsive">
-							<ul id="mobilemenu">
-								<li class="menu-item-has-children">
-									<a href="home.">Home</a>
-									<ul class="sub-menu">
-										<li><a href="home.php">Home</a></li>
-										<li><a href="home.php">Resident Connect</a></li>
-									</ul>
-								</li>
-								<li class="menu-item-has-children">
-									<a href="#">Pages</a>
-									<ul class="sub-menu">
-										<li><a href="about.php">About</a></li>
-										<li><a href="team.php">Team</a></li>
-										<li>
-											<a href="services.php">Services </a>
-										</li>
-									</ul>
-								</li>
-								<li class="menu-item-has-children">
-									<a href="booking.php">Room</a>
-									<ul class="sub-menu">
-										<li><a href="booking.php">2nd Floor</a></li>
-										<li><a href="booking.php">1st Floor</a></li>
-										<li><a href="booking.php">Ground Floor</a></li>
-										<li><a href="booking.php">Room Details</a></li>
-									</ul>
-								</li>
+	 <div class="header__sticky">
+    <div class="header__area">
+      <div class="container custom__container">
+        <div class="header__area-menubar">
+          <div class="header__area-menubar-left">
+            <div class="header__area-menubar-left-logo">
+              <a href="home.php">
+                <h2 style="color: white;">Kryptons</h2>
+              </a>
+              <div class="responsive-menu"></div>
+            </div>
+          </div>
+          <div class="header__area-menubar-right">
+            <div class="header__area-menubar-right-menu menu-responsive">
+              <ul id="mobilemenu">
+                <li class="menu-item-has-children">
+                  <a href="home.">Home</a>
+                  <ul class="sub-menu">
+                    <li><a href="home.php">Home</a></li>
+                    <li><a href="home.php">Resident Connect</a></li>
+                  </ul>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="#">Pages</a>
+                  <ul class="sub-menu">
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="team.php">Team</a></li>
+                    
+                  </ul>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="booking.php">Room</a>
+                  <ul class="sub-menu">
+                    <li><a href="booking.php">2nd Floor</a></li>
+                    <li><a href="booking.php">1st Floor</a></li>
+                    <li><a href="booking.php">Ground Floor</a></li>
+                    
+                  </ul>
+                </li>
 
-								<li><a href="contact.php">Contact Us</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="header__area-menubar-right-box">
-						<div class="header__area-menubar-right-box-btn">
-							<a class="theme-btn" href="booking.php">Book Now<i class="fal fa-long-arrow-right"></i></a>
-						</div>
-					</div>
+                <li><a href="contact.php">Contact Us</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="header__area-menubar-right-box">
+            <div class="header__area-menubar-right-box-btn">
+              <a class="theme-btn" href="booking.php">Book Now<i class="fal fa-long-arrow-right"></i></a>
+            </div>
+          </div>
 
-					<div class="header__area-menubar-right-box">
-						<div class="header__area-menubar-right-box-btn">
-							<a class="theme-btn" href="index.php">Login/SignUp<i
-									class="fal fa-long-arrow-right"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+          <div class="header__area-menubar-right-box">
+            <div class="header__area-menubar-right-box-btn">
+              <a class="theme-btn" href="index.php">Login/SignUp<i class="fal fa-long-arrow-right"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 	<!-- Header Area End -->
 	<!-- Page Banner Start -->
 	<div class="page__banner" data-background="/Users/zawadi/Desktop/Kryptons/assets/img/photo_6010393430800317834_y.jpg">

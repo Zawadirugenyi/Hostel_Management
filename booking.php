@@ -1,11 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Room Selection Page</title>
-    <link rel="stylesheet" href="style 2.css">
+    <!-- Title of Site -->
+    <title>Kryptons Hostels</title>
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="assets/img/favicon.png" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="assets/css/all.css" />
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="assets/css/animate.css" />
+    <!-- Nice Select CSS -->
+    <link rel="stylesheet" href="assets/css/nice-select.css" />
+    <!-- Swiper Bundle CSS -->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" />
+    <!-- Mean Menu CSS -->
+    <link rel="stylesheet" href="assets/css/meanmenu.min.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/sass/style.css" />
 </head>
+<link rel="stylesheet" href="style 2.css">
+</head>
+
 <body>
     <h1>Room Selection</h1>
     <div class="room-container">
@@ -41,31 +64,36 @@
         <div class="room available" data-room-id="130">Room 130</div>
         <div class="room available" data-room-id="131">Room 131</div>
         <div class="room available" data-room-id="132">Room 132</div>
-        <div class="room available" data-room-id="133">Room 133</div> 
-        <div class="room available" data-room-id="134">Room 134</div> 
-        <div class="room available" data-room-id="135">Room 135</div> 
-        <div class="room available" data-room-id="136">Room 136</div> 
-        <div class="room available" data-room-id="137">Room 137</div> 
-        <div class="room available" data-room-id="138">Room 138</div> 
-        <div class="room available" data-room-id="139">Room 139</div> 
-        <div class="room available" data-room-id="140">Room 140</div> 
+        <div class="room available" data-room-id="133">Room 133</div>
+        <div class="room available" data-room-id="134">Room 134</div>
+        <div class="room available" data-room-id="135">Room 135</div>
+        <div class="room available" data-room-id="136">Room 136</div>
+        <div class="room available" data-room-id="137">Room 137</div>
+        <div class="room available" data-room-id="138">Room 138</div>
+        <div class="room available" data-room-id="139">Room 139</div>
+        <div class="room available" data-room-id="140">Room 140</div>
         <!-- Add more rooms as needed -->
-    </div>
-    <button id="checkout-button" disabled>Checkout</button>
+        <a class="theme-btn" id="checkout-button" disabled
+            style="display: flex; justify-content: center; align-items: center;">Checkout <i
+                class="fal fa-long-arrow-right"></i></a>
 
-    <!-- Modal for editing selections -->
-    <div id="selection-modal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2>Edit Your Selections</h2>
-            <div id="selected-rooms">
-                <!-- Selected rooms will be displayed here -->
+
+
+
+        <!-- Modal for editing selections -->
+        <div id="selection-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2>Edit Your Selections</h2>
+                <div id="selected-rooms">
+                    <!-- Selected rooms will be displayed here -->
+                </div>
+                <button id="update-selection-button">Update Selection</button>
+                <button id="edit-selection-button" disabled>Edit Selection</button>
             </div>
-            <button id="update-selection-button">Update Selection</button>
-            <button id="edit-selection-button" disabled>Edit Selection</button>
         </div>
-    </div>
 
-    <script src="booking.js"></script>
+        <script src="booking.js"></script>
 </body>
+
 </html>
