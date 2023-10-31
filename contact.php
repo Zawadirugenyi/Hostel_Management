@@ -10,7 +10,7 @@
 	<meta name="author" content="ThemeOri">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Title of Site -->
-	<title>Hostily - Luxury Hotel Booking HTML5 Template</title>
+	<title>Kryptons</title>
 	<!-- Favicons -->
 	<link rel="icon" type="image/png" href="assets/img/favicon.png">
 	<!-- Bootstrap CSS -->
@@ -47,7 +47,7 @@
 				<div class="header__area-menubar">
 					<div class="header__area-menubar-left">
 						<div class="header__area-menubar-left-logo">
-							<a href="index.html"><h2 style="color: white;">Kryptons</h2></a>
+							<a href="home.php"><h2 style="color: white;">Kryptons</h2></a>
 
 							<div class="responsive-menu"></div>
 						</div>

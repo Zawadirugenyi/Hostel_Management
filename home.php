@@ -47,7 +47,7 @@
         <div class="header__area-menubar">
           <div class="header__area-menubar-left">
             <div class="header__area-menubar-left-logo">
-              <a href="index.html"><img src="assets/img/logo.png" alt="" /></a>
+              <a href="home.php"><h2 style="color: white;">Kryptons</h2></a>
               <div class="responsive-menu"></div>
             </div>
           </div>
