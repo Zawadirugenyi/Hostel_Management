@@ -106,7 +106,7 @@
 	</div>
 	<!-- Header Area End -->
 	<!-- Page Banner Start -->
-	<div class="page__banner" data-background="assets/img/banner/page-banner-2.jpg">
+	<div class="page__banner" data-background="/Users/zawadi/Desktop/Kryptons/assets/img/photo_6010393430800317834_y.jpg">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-12">
@@ -131,10 +131,10 @@
 				<div class="col-xl-4 col-lg-4 col-md-6 mb-30">
 					<div class="services__team-item">
 						<div class="services__team-item-image">
-							<img src="assets/img/team/team-5.jpg" alt="">
+							<img src="/assets/img/Jonathan.jpeg">
 							<div class="services__team-item-image-content">
-								<h5>Michelle yeoh</h5>
-								<span>Senior Member</span>
+								<h5>Fred N</h5>
+								<span>Landlord</span>
 								<div class="services__team-item-image-content-social">
 									<ul>
 										<li><a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -154,10 +154,10 @@
 				<div class="col-xl-4 col-lg-4 col-md-6 md-mb-30">
 					<div class="services__team-item">
 						<div class="services__team-item-image">
-							<img src="assets/img/team/team-6.jpg" alt="">
+							<img src="/assets/img/Jonathan.jpeg">
 							<div class="services__team-item-image-content">
-								<h5>James Damian</h5>
-								<span>Senior Member</span>
+								<h5>Christ N</h5>
+								<span>Manager</span>
 								<div class="services__team-item-image-content-social">
 									<ul>
 										<li><a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -177,10 +177,10 @@
 				<div class="col-xl-4 col-lg-4 col-md-6 lg-mb-30">
 					<div class="services__team-item">
 						<div class="services__team-item-image">
-							<img src="assets/img/team/team-7.jpg" alt="">
+							<img src="/assets/img/Jonathan.jpeg">
 							<div class="services__team-item-image-content">
-								<h5>Davinci Resolve</h5>
-								<span>Senior Member</span>
+								<h5>Lucas M</h5>
+								<span>Caretacer</span>
 								<div class="services__team-item-image-content-social">
 									<ul>
 										<li><a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -200,10 +200,10 @@
 				<div class="col-xl-4 col-lg-4 col-md-6 md-mb-30">
 					<div class="services__team-item">
 						<div class="services__team-item-image">
-							<img src="assets/img/team/team-8.jpg" alt="">
+							<img src="/assets/img/Jonathan.jpeg">
 							<div class="services__team-item-image-content">
-								<h5>David Fincher</h5>
-								<span>Senior Member</span>
+								<h5>Igone S</h5>
+								<span>Security</span>
 								<div class="services__team-item-image-content-social">
 									<ul>
 										<li><a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -223,10 +223,10 @@
 				<div class="col-xl-4 col-lg-4 col-md-6 md-mb-30">
 					<div class="services__team-item">
 						<div class="services__team-item-image">
-							<img src="assets/img/team/team-9.jpg" alt="">
+							<img src="/assets/img/Jonathan.jpeg">
 							<div class="services__team-item-image-content">
-								<h5>Michelle Reis</h5>
-								<span>Senior Member</span>
+								<h5>Richard W</h5>
+								<span>WiFi manager</span>
 								<div class="services__team-item-image-content-social">
 									<ul>
 										<li><a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -246,10 +246,10 @@
 				<div class="col-xl-4 col-lg-4 col-md-6">
 					<div class="services__team-item">
 						<div class="services__team-item-image">
-							<img src="assets/img/team/team-10.jpg" alt="">
+							<img src="/assets/img/Jonathan.jpeg">
 							<div class="services__team-item-image-content">
-								<h5>Amelia Jessica</h5>
-								<span>Senior Member</span>
+								<h5>Desh N</h5>
+								<span>Tenant leader</span>
 								<div class="services__team-item-image-content-social">
 									<ul>
 										<li><a href="#"><i class="fab fa-facebook-f"></i></a>

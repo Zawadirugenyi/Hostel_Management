@@ -47,7 +47,9 @@
 				<div class="header__area-menubar">
 					<div class="header__area-menubar-left">
 						<div class="header__area-menubar-left-logo">
-							<a href="home.php"><h2 style="color: white;">Kryptons</h2></a>
+							<a href="home.php">
+								<h2 style="color: white;">Kryptons</h2>
+							</a>
 
 							<div class="responsive-menu"></div>
 						</div>
@@ -56,14 +58,14 @@
 						<div class="header__area-menubar-right-menu menu-responsive">
 							<ul id="mobilemenu">
 								<li class="menu-item-has-children"><a href="#">Home</a>
-								
+
 								</li>
 								<li class="menu-item-has-children"><a href="#">Pages</a>
 									<ul class="sub-menu">
 										<li><a href="about.html">About</a></li>
 										<li><a href="services-team.html">Team</a></li>
 										<li><a href="services-details.html">Services Details</a></li>
-										
+
 									</ul>
 								</li>
 								<li class="menu-item-has-children"><a href="#">Room</a>
@@ -74,7 +76,7 @@
 										<li><a href="room-details.html">Second Floor</a></li>
 									</ul>
 								</li>
-							
+
 								<li><a href="contact.html">Contact</a></li>
 							</ul>
 						</div>
@@ -90,7 +92,8 @@
 	</div>
 	<!-- Header Area End -->
 	<!-- Page Banner Start -->
-	<div class="page__banner" data-background="assets/img/photo_6010393430800317782_y.jpg">
+	<div class="page__banner"
+		data-background="/Users/zawadi/Desktop/Kryptons/assets/img/photo_6010393430800317834_y.jpg">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-12">
@@ -153,7 +156,7 @@
 							</li>
 							<li><a href="#"><i class="fab fab fa-instagram"></i></a>
 							</li>
-							
+
 						</ul>
 					</div>
 				</div>
@@ -224,7 +227,9 @@
 					<div class="footer__area-widget">
 						<div class="footer__area-widget-about">
 							<div class="footer__area-widget-about-logo">
-								<a href="index.html"><h2 style="color: white;">Kryptons</h2></a>
+								<a href="index.html">
+									<h2 style="color: white;">Kryptons</h2>
+								</a>
 							</div>
 							<p>Phasellus nisi sapien, rutrum placerat sapien eu, rhoncus tempus</p>
 							<div class="footer__area-widget-about-social">
@@ -233,7 +238,7 @@
 									</li>
 									<li><a href="#"><i class="fab fab fa-instagram"></i></a>
 									</li>
-									
+
 								</ul>
 							</div>
 						</div>
@@ -281,8 +286,8 @@
 										Parking</a></li>
 								<li><a href="services-details.html"><i class="fal fa-angle-double-right"></i>Swimming
 										pool</a></li>
-							
-									
+
+
 							</ul>
 						</div>
 					</div>
@@ -306,7 +311,8 @@
 					<div class="col-xl-6 col-lg-6 col-md-7 md-mb-10">
 						<div class="copyright__area-left md-t-center">
 							<p>Copyright © 2023 <a href="https://themeforest.net/user/themeori/portfolio"> Team</a>
-								<a href="index.html">Resident Connect</a></p>
+								<a href="index.html">Resident Connect</a>
+							</p>
 						</div>
 					</div>
 					<div class="col-xl-6 col-lg-6 col-md-5">
