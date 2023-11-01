@@ -57,7 +57,7 @@
             <div class="header__area-menubar-right-menu menu-responsive">
               <ul id="mobilemenu">
                 <li class="menu-item-has-children">
-                  <a href="home.">Home</a>
+                  <a href="home.php">Home</a>
                   <ul class="sub-menu">
                     <li><a href="home.php">Home</a></li>
                     <li><a href="home.php">Resident Connect</a></li>
@@ -76,7 +76,7 @@
                     <li><a href="booking.php">2nd Floor</a></li>
                     <li><a href="booking.php">1st Floor</a></li>
                     <li><a href="booking.php">Ground Floor</a></li>
-                    
+
                   </ul>
                 </li>
 

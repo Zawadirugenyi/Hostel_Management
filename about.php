@@ -41,7 +41,7 @@
   </div>
   <!-- Preloader end -->
   <!-- Header Area Start -->
-   <div class="header__sticky">
+  <div class="header__sticky">
     <div class="header__area">
       <div class="container custom__container">
         <div class="header__area-menubar">
@@ -68,7 +68,7 @@
                   <ul class="sub-menu">
                     <li><a href="about.php">About</a></li>
                     <li><a href="team.php">Team</a></li>
-                    
+
                   </ul>
                 </li>
                 <li class="menu-item-has-children">
@@ -77,7 +77,7 @@
                     <li><a href="booking.php">2nd Floor</a></li>
                     <li><a href="booking.php">1st Floor</a></li>
                     <li><a href="booking.php">Ground Floor</a></li>
-                   
+
                   </ul>
                 </li>
 
@@ -102,7 +102,8 @@
   </div>
   <!-- Header Area End -->
   <!-- Page Banner Start -->
-  <div class="page__banner" data-background="assets/img/hotel/download (21).jpg">
+ <div class="page__banner"
+		data-background="/assets/img/photo_6010393430800317834_y.jpg">
     <div class="container">
       <div class="row">
         <div class="col-xl-12">
@@ -128,14 +129,11 @@
         <div class="col-xl-12">
           <div class="offers__area-title">
             <span class="subtitle__one">Hostel Offers</span>
-            <h2>Book now and save up to 25% On hotel rooms</h2>
+            <h2>Book now and have your room for the semester </h2>
             <p>
-              hasellus nisi sapien, rutrum placerat sapien eu, rhoncus tempus
-              felis. Nulla non pulvinar enim, vel viverra nunc. Integer
-              condimentum vulputate justo. Morbi rhoncus elit in tellus
-              viverra, vel fermentum orci dictum. Vestibulum non nisi commodo,
-              tincidunt elit non, consectetur tellus. Fusce in commodo velit.
-              In dapibus dui vitae tortor ullamcorper mollis.
+              We are the best choice that you can make, trust me you will never
+              regret chosing us because we well offer you the best that none
+              else around here can give you.
             </p>
           </div>
         </div>
@@ -268,7 +266,7 @@
         <div class="col-xl-4 col-lg-4 col-md-6 lg-mb-30">
           <div class="team__area-item">
             <div class="team__area-item-image">
-              <img src="assets/img/hotel/download (14).jpg" alt="" />
+              <img src="/assets/img/Jonathan.jpeg">
               <div class="team__area-item-image-overlay">
                 <div class="team__area-item-image-overlay-social">
                   <ul>
@@ -279,16 +277,16 @@
                       <a href="#"><i class="fab fa-twitter"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fab fa-behance"></i></a>
+                      <a href="#"><i class="fab fa-instagram"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fab fa-youtube"></i></a>
+                      <a href="#"><i class="fab fa-whatsapp"></i></a>
                     </li>
                   </ul>
                 </div>
                 <div class="team__area-item-image-overlay-content">
-                  <h5>Michelle yeoh</h5>
-                  <span>Services man</span>
+                  <h5>Fred N</h5>
+                  <span>Landlord</span>
                 </div>
               </div>
             </div>
@@ -297,7 +295,7 @@
         <div class="col-xl-4 col-lg-4 col-md-6 md-mb-30">
           <div class="team__area-item">
             <div class="team__area-item-image">
-              <img src="assets/img/hotel/download (14).jpg" alt="" />
+              <img src="/assets/img/Jonathan.jpeg">
               <div class="team__area-item-image-overlay">
                 <div class="team__area-item-image-overlay-social">
                   <ul>
@@ -308,16 +306,16 @@
                       <a href="#"><i class="fab fa-twitter"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fab fa-behance"></i></a>
+                      <a href="#"><i class="fab fa-instagram"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fab fa-youtube"></i></a>
+                      <a href="#"><i class="fab fa-whatsapp"></i></a>
                     </li>
                   </ul>
                 </div>
                 <div class="team__area-item-image-overlay-content">
-                  <h5>David Fincher</h5>
-                  <span>Services man</span>
+                  <h5>Fredrick M</h5>
+                  <span>Manager</span>
                 </div>
               </div>
             </div>
@@ -326,7 +324,7 @@
         <div class="col-xl-4 col-lg-4 col-md-6">
           <div class="team__area-item">
             <div class="team__area-item-image">
-              <img src="assets/img/hotel/download (14).jpg" alt="" />
+              <img src="/assets/img/Jonathan.jpeg">
               <div class="team__area-item-image-overlay">
                 <div class="team__area-item-image-overlay-social">
                   <ul>
@@ -337,16 +335,16 @@
                       <a href="#"><i class="fab fa-twitter"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fab fa-behance"></i></a>
+                      <a href="#"><i class="fab fa-instagram"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fab fa-youtube"></i></a>
+                      <a href="#"><i class="fab fa-whatsapp"></i></a>
                     </li>
                   </ul>
                 </div>
                 <div class="team__area-item-image-overlay-content">
-                  <h5>Michelle Reis</h5>
-                  <span>Services man</span>
+                  <h5>Lucas W</h5>
+                  <span>Caretaker</span>
                 </div>
               </div>
             </div>
@@ -374,6 +372,8 @@
                   <li><a href="#"><i class="fab fa-facebook-f"></i></a>
                   </li>
                   <li><a href="#"><i class="fab fab fa-instagram"></i></a>
+                  </li>
+                  <li><a href="#"><i class="fab fab fa-whatsapp"></i></a>
                   </li>
 
                 </ul>

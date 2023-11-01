@@ -67,7 +67,7 @@
 									<a href="#">Pages</a>
 									<ul class="sub-menu">
 										<li><a href="about.php">About</a></li>
-
+										<li><a href="team.php">Team</a></li>
 									</ul>
 								</li>
 								<li class="menu-item-has-children">
@@ -102,8 +102,7 @@
 	</div>
 	<!-- Header Area End -->
 	<!-- Page Banner Start -->
-	<div class="page__banner"
-		data-background="/assets/img/photo_6010393430800317834_y.jpg">
+	<div class="page__banner" data-background="/assets/img/photo_6010393430800317834_y.jpg">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-12">

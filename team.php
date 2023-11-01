@@ -103,7 +103,8 @@
   </div>
 	<!-- Header Area End -->
 	<!-- Page Banner Start -->
-	<div class="page__banner" data-background="/Users/zawadi/Desktop/Kryptons/assets/img/photo_6010393430800317834_y.jpg">
+	<div class="page__banner"
+		data-background="/assets/img/photo_6010393430800317834_y.jpg">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-12">
