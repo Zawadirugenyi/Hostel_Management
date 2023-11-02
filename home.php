@@ -10,7 +10,7 @@
   <meta name="author" content="ThemeOri" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Title of Site -->
-  <title>Kryptons Hostels</title>
+  <title>Kryptons</title>
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="assets/img/favicon.png" />
   <!-- Bootstrap CSS -->
