@@ -358,8 +358,7 @@
               <span class="subtitle__one">Order Food</span>
               <h2>Restaurant Connect</h2>
               <p>
-                Proin massa augue, lacinia at blandit ac, fringilla
-                scelerisque tortor. Mauris sit amet lectus porta,
+                We offer the best
               </p>
               <a class="theme-border-btn" href="services-details.html">Read More<i
                   class="fal fa-long-arrow-right"></i></a>
