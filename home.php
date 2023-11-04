@@ -184,7 +184,7 @@
         <div class="col-xl-5">
           <div class="deluxe__area-title">
             <span class="subtitle__one">Secury and Comfort</span>
-            <h2>Our Luxury Rooms</h2>
+            <h2>Our Rooms</h2>
           </div>
         </div>
         <div class="col-xl-7">
