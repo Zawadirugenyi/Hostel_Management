@@ -68,10 +68,10 @@
         <div class="room available" data-room-id="234">Room 234</div>
         <div class="room available" data-room-id="235">Room 235</div>
         <div class="room available" data-room-id="236">Room 236</div>
-        <div class="room available" data-room-id="137">Room 237</div>
-        <div class="room available" data-room-id="138">Room 238</div>
-        <div class="room available" data-room-id="139">Room 239</div>
-        <div class="room available" data-room-id="140">Room 240</div>
+        <div class="room available" data-room-id="237">Room 237</div>
+        <div class="room available" data-room-id="238">Room 238</div>
+        <div class="room available" data-room-id="239">Room 239</div>
+        <div class="room available" data-room-id="240">Room 240</div>
         <!-- Add more rooms as needed -->
         <a class="theme-btn" id="checkout-button" disabled
             style="display: flex; justify-content: center; align-items: center;">Checkout <i
