@@ -32,14 +32,14 @@
 <body>
     <h1>Room Selection</h1>
     <div class="room-container">
-        <div class="room available" data-room-id="101">Room 201</div>
-        <div class="room available" data-room-id="102">Room 202</div>
-        <div class="room available" data-room-id="103">Room 203</div>
-        <div class="room available" data-room-id="104">Room 204</div>
-        <div class="room available" data-room-id="105">Room 205</div>
-        <div class="room available" data-room-id="106">Room 206</div>
-        <div class="room available" data-room-id="107">Room 207</div>
-        <div class="room available" data-room-id="108">Room 208</div>
+        <div class="room available" data-room-id="201">Room 201</div>
+        <div class="room available" data-room-id="202">Room 202</div>
+        <div class="room available" data-room-id="203">Room 203</div>
+        <div class="room available" data-room-id="204">Room 204</div>
+        <div class="room available" data-room-id="205">Room 205</div>
+        <div class="room available" data-room-id="206">Room 206</div>
+        <div class="room available" data-room-id="207">Room 207</div>
+        <div class="room available" data-room-id="208">Room 208</div>
         <div class="room available" data-room-id="109">Room 209</div>
         <div class="room available" data-room-id="110">Room 210</div>
         <div class="room available" data-room-id="111">Room 211</div>
