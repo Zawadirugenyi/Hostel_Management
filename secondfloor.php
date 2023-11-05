@@ -32,9 +32,9 @@
 <body>
     <h1>Room Selection</h1>
     <div class="room-container">
-        <div class="room available" data-room-id="2301">Room 201</div>
-        <div class="room available" data-room-id="302">Room 202</div>
-        <div class="room available" data-room-id="303">Room 203</div>
+        <div class="room available" data-room-id="301">Room 301</div>
+        <div class="room available" data-room-id="302">Room 302</div>
+        <div class="room available" data-room-id="303">Room 303</div>
         <div class="room available" data-room-id="304">Room 304</div>
         <div class="room available" data-room-id="305">Room 305</div>
         <div class="room available" data-room-id="306">Room 306</div>
