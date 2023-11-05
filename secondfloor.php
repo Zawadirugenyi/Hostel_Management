@@ -35,16 +35,16 @@
         <div class="room available" data-room-id="2301">Room 201</div>
         <div class="room available" data-room-id="302">Room 202</div>
         <div class="room available" data-room-id="303">Room 203</div>
-        <div class="room available" data-room-id="304">Room 204</div>
-        <div class="room available" data-room-id="305">Room 205</div>
-        <div class="room available" data-room-id="306">Room 206</div>
-        <div class="room available" data-room-id="307">Room 207</div>
-        <div class="room available" data-room-id="308">Room 208</div>
-        <div class="room available" data-room-id="309">Room 209</div>
-        <div class="room available" data-room-id="310">Room 210</div>
-        <div class="room available" data-room-id="311">Room 211</div>
-        <div class="room available" data-room-id="312">Room 212</div>
-        <div class="room available" data-room-id="313">Room 213</div>
+        <div class="room available" data-room-id="304">Room 304</div>
+        <div class="room available" data-room-id="305">Room 305</div>
+        <div class="room available" data-room-id="306">Room 306</div>
+        <div class="room available" data-room-id="307">Room 307</div>
+        <div class="room available" data-room-id="308">Room 308</div>
+        <div class="room available" data-room-id="309">Room 309</div>
+        <div class="room available" data-room-id="310">Room 310</div>
+        <div class="room available" data-room-id="311">Room 311</div>
+        <div class="room available" data-room-id="312">Room 312</div>
+        <div class="room available" data-room-id="313">Room 313</div>
         <div class="room available" data-room-id="314">Room 314</div>
         <div class="room available" data-room-id="315">Room 315</div>
         <div class="room available" data-room-id="316">Room 316</div>
