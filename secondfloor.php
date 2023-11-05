@@ -38,9 +38,9 @@
         <div class="room available" data-room-id="304">Room 204</div>
         <div class="room available" data-room-id="305">Room 205</div>
         <div class="room available" data-room-id="306">Room 206</div>
-        <div class="room available" data-room-id="207">Room 207</div>
-        <div class="room available" data-room-id="208">Room 208</div>
-        <div class="room available" data-room-id="209">Room 209</div>
+        <div class="room available" data-room-id="307">Room 207</div>
+        <div class="room available" data-room-id="308">Room 208</div>
+        <div class="room available" data-room-id="309">Room 209</div>
         <div class="room available" data-room-id="210">Room 210</div>
         <div class="room available" data-room-id="211">Room 211</div>
         <div class="room available" data-room-id="212">Room 212</div>
