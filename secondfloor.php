@@ -52,18 +52,18 @@
         <div class="room available" data-room-id="318">Room 218</div>
         <div class="room available" data-room-id="319">Room 219</div>
         <div class="room available" data-room-id="320">Room 220</div>
-        <div class="room available" data-room-id="221">Room 221</div>
-        <div class="room available" data-room-id="222">Room 222</div>
-        <div class="room available" data-room-id="223">Room 223</div>
-        <div class="room available" data-room-id="224">Room 224</div>
-        <div class="room available" data-room-id="225">Room 225</div>
-        <div class="room available" data-room-id="225">Room 226</div>
-        <div class="room available" data-room-id="227">Room 227</div>
-        <div class="room available" data-room-id="228">Room 228</div>
-        <div class="room available" data-room-id="229">Room 229</div>
-        <div class="room available" data-room-id="230">Room 130</div>
-        <div class="room available" data-room-id="231">Room 231</div>
-        <div class="room available" data-room-id="232">Room 232</div>
+        <div class="room available" data-room-id="321">Room 221</div>
+        <div class="room available" data-room-id="322">Room 222</div>
+        <div class="room available" data-room-id="323">Room 223</div>
+        <div class="room available" data-room-id="324">Room 224</div>
+        <div class="room available" data-room-id="325">Room 225</div>
+        <div class="room available" data-room-id="325">Room 226</div>
+        <div class="room available" data-room-id="327">Room 227</div>
+        <div class="room available" data-room-id="328">Room 228</div>
+        <div class="room available" data-room-id="329">Room 229</div>
+        <div class="room available" data-room-id="330">Room 130</div>
+        <div class="room available" data-room-id="331">Room 231</div>
+        <div class="room available" data-room-id="332">Room 232</div>
         <div class="room available" data-room-id="233">Room 233</div>
         <div class="room available" data-room-id="234">Room 234</div>
         <div class="room available" data-room-id="235">Room 235</div>
