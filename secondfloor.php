@@ -57,10 +57,10 @@
         <div class="room available" data-room-id="323">Room 223</div>
         <div class="room available" data-room-id="324">Room 224</div>
         <div class="room available" data-room-id="325">Room 225</div>
-        <div class="room available" data-room-id="325">Room 226</div>
-        <div class="room available" data-room-id="327">Room 227</div>
-        <div class="room available" data-room-id="328">Room 228</div>
-        <div class="room available" data-room-id="329">Room 229</div>
+        <div class="room available" data-room-id="325">Room 326</div>
+        <div class="room available" data-room-id="327">Room 327</div>
+        <div class="room available" data-room-id="328">Room 328</div>
+        <div class="room available" data-room-id="329">Room 329</div>
         <div class="room available" data-room-id="330">Room 330</div>
         <div class="room available" data-room-id="331">Room 331</div>
         <div class="room available" data-room-id="332">Room 332</div>
