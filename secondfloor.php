@@ -61,17 +61,17 @@
         <div class="room available" data-room-id="327">Room 227</div>
         <div class="room available" data-room-id="328">Room 228</div>
         <div class="room available" data-room-id="329">Room 229</div>
-        <div class="room available" data-room-id="330">Room 130</div>
-        <div class="room available" data-room-id="331">Room 231</div>
-        <div class="room available" data-room-id="332">Room 232</div>
-        <div class="room available" data-room-id="333">Room 233</div>
-        <div class="room available" data-room-id="334">Room 234</div>
-        <div class="room available" data-room-id="335">Room 235</div>
-        <div class="room available" data-room-id="336">Room 236</div>
-        <div class="room available" data-room-id="337">Room 237</div>
-        <div class="room available" data-room-id="338">Room 238</div>
-        <div class="room available" data-room-id="339">Room 239</div>
-        <div class="room available" data-room-id="340">Room 240</div>
+        <div class="room available" data-room-id="330">Room 330</div>
+        <div class="room available" data-room-id="331">Room 331</div>
+        <div class="room available" data-room-id="332">Room 332</div>
+        <div class="room available" data-room-id="333">Room 333</div>
+        <div class="room available" data-room-id="334">Room 334</div>
+        <div class="room available" data-room-id="335">Room 335</div>
+        <div class="room available" data-room-id="336">Room 336</div>
+        <div class="room available" data-room-id="337">Room 337</div>
+        <div class="room available" data-room-id="338">Room 338</div>
+        <div class="room available" data-room-id="339">Room 339</div>
+        <div class="room available" data-room-id="340">Room 340</div>
         <!-- Add more rooms as needed -->
         <a class="theme-btn" id="checkout-button" disabled
             style="display: flex; justify-content: center; align-items: center;">Checkout <i
