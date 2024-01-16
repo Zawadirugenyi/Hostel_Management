@@ -10,7 +10,7 @@
   <meta name="author" content="ThemeOri" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Title of Site -->
-  
+
   <title>Kryptons</title>
 
   <!-- Favicons -->
@@ -41,7 +41,9 @@
       <div class="double-bounce2"></div>
     </div>
   </div>
+
   <!-- Preloader end -->
+  
   <!-- Header Area Start -->
   <div class="header__sticky">
     <div class="header__area">
