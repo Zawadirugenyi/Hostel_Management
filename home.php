@@ -43,7 +43,7 @@
   </div>
 
   <!-- Preloader end -->
-  
+
   <!-- Header Area Start -->
   <div class="header__sticky">
     <div class="header__area">
@@ -103,7 +103,9 @@
       </div>
     </div>
   </div>
+
   <!-- Header Area End -->
+  
   <!-- Banner Area Start -->
   <div class="page__banner" data-background="/Users/zawadi/Desktop/Kryptons/assets/img/photo_6010393430800317834_y.jpg">
     <div class="container">
