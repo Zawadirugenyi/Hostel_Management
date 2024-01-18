@@ -79,8 +79,7 @@
                   <ul class="sub-menu">
                     <li><a href="booking.php">2nd Floor</a></li>
                     <li><a href="booking.php">1st Floor</a></li>
-                    <li><a href="booking.php">Ground Floor</a></li>
-
+                    <li><a href="booking.php">Ground Floor</a></li>       
                   </ul>
                 </li>
 
@@ -103,9 +102,8 @@
       </div>
     </div>
   </div>
-
   <!-- Header Area End -->
-  
+
   <!-- Banner Area Start -->
   <div class="page__banner" data-background="/Users/zawadi/Desktop/Kryptons/assets/img/photo_6010393430800317834_y.jpg">
     <div class="container">
