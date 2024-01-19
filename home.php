@@ -181,6 +181,7 @@
     </div>
   </div>
   <!-- Accommodations Area End -->
+  
   <!-- Deluxe Area Start -->
   <div class="deluxe__area section-padding">
     <div class="container">
