@@ -70,7 +70,7 @@
 										<li><a href="team.php">Team</a></li>
 									</ul>
 								</li>
-								
+
 								<li class="menu-item-has-children">
 									<a href="booking.php">Room</a>
 									<ul class="sub-menu">
@@ -102,6 +102,7 @@
 		</div>
 	</div>
 	<!-- Header Area End -->
+	
 	<!-- Page Banner Start -->
 	<div class="page__banner" data-background="/assets/img/photo_6010393430800317834_y.jpg">
 		<div class="container">
