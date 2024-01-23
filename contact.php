@@ -102,7 +102,7 @@
 		</div>
 	</div>
 	<!-- Header Area End -->
-	
+
 	<!-- Page Banner Start -->
 	<div class="page__banner" data-background="/assets/img/photo_6010393430800317834_y.jpg">
 		<div class="container">
@@ -122,6 +122,7 @@
 		</div>
 	</div>
 	<!-- Page Banner End -->
+
 	<!-- Contact Area Start -->
 	<div class="contact__area section-padding pb-0">
 		<div class="container">
@@ -230,6 +231,7 @@
 		</div>
 	</div>
 	<!-- Contact Area End -->
+	
 	<!-- Footer Area Start -->
 	<div class="footer__area">
 		<div class="container">
