@@ -231,7 +231,7 @@
 		</div>
 	</div>
 	<!-- Contact Area End -->
-	
+
 	<!-- Footer Area Start -->
 	<div class="footer__area">
 		<div class="container">
@@ -342,6 +342,7 @@
 		</div>
 	</div>
 	<!-- Footer Area End -->
+	
 	<!-- Scroll Btn Start -->
 	<div class="scroll-up">
 		<svg class="scroll-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
